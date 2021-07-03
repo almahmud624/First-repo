@@ -2,3 +2,9 @@ button {
     padding:10px 20px;
     border:1px solid transparent;
 }
+h1 {
+    text-transform:capitalize;
+    font-family:tahoma;
+    font-size:25px;
+    color:tomato;
+}
